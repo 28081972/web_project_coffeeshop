@@ -39,7 +39,7 @@
   position: absolute;
   top: 30px;
   right: 80px;
-  font-family: "Inter" Arial sans-serif;
+  font-family: "Inter", Arial, sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
@@ -56,7 +56,7 @@
   position: absolute;
   top: 183px;
   left: 80px;
-  font-family: "Inter" Arial sans-serif;
+  font-family: "Inter", Arial, sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 58px;
@@ -65,7 +65,7 @@
 }
 
 .span-accent {
-  font-family: "Noto Serif" "Times New Roman" sans-serif;
+  font-family: "Noto Serif", "Times New Roman", sans-serif;
   font-style: italic;
   font-weight: normal;
   font-size: 58px;
@@ -78,7 +78,7 @@
   position: absolute;
   left: 80px;
   top: 360px;
-  font-family: "Noto Serif" "Times New Roman" sans-serif;
+  font-family: "Noto Serif", "Times New Roman", sans-serif;
   font-weight: normal;
   font-size: 20px;
   line-height: 30px;
@@ -93,7 +93,7 @@
 }
 
 .header__footer {
-  font-family: "Inter" Arial sans-serif;
+  font-family: "Inter", Arial, sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
@@ -132,7 +132,7 @@
 .recipes__title {
   color: #ffffff;
   max-width: 580px;
-  font-family: "Inter" Arial sans-serif;
+  font-family: "Inter", Arial, sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 44px;
@@ -146,7 +146,7 @@
 .recipes__subtitle {
   color: #ffffff;
   max-width: 438px;
-  font-family: "Noto Serif" "Times New Roman" sans-serif;
+  font-family: "Noto Serif", "Times New Roman", sans-serif;
   font-style: normal;
   font-weight: normal;
   font-size: 20px;
@@ -173,7 +173,7 @@
 
 .recipes__iframe {
   color: #ffffff;
-  font-family: "Inter" Arial sans-serif;
+  font-family: "Inter", Arial, sans-serif;
   font-weight: 500;
   font-size: 20px;
   line-height: 30px;

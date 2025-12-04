@@ -30,6 +30,6 @@
   color: #000000;
 }
 
-.nav__link:visited {
+.nav__link:hover {
   color: #2f80ed;
 }

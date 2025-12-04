@@ -51,7 +51,7 @@
   text-decoration: none;
 }
 
-.footer__social-link:visited {
+.footer__social-link:hover {
   color: #c1c1c1;
 }
 

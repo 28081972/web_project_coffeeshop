@@ -5,3 +5,5 @@ El proyecto está dirigido a posibles clientes, que disfrutan de la buena lectur
 La estructura de la pagina fue desarrollada siguiendo buenas practicas de codificación y estructura de archivos basadas en BEM, asi como con el uso de recursos de posicionamiento con Flexbox y Absoluto (solo en casos donde fue requrido); se utilizaron también, pseudoelementos y pseudoclases que enriquecieron la presentación visual del proyecto.
 
 En cuanto a las posibilidades de mejora del proyecto, valdría la pena tener la posiblidad de que el usuario pueda suscribirse y, tener con ello, la posibilidad de acceder a contenido, promociones y listado de nuevos libros exclusivo para miembros; poder enviarle correos personalizados en su cumpleaños o información relevante acerca de su género de lectura favorita.
+
+https://28081972.github.io/web_project_coffeeshop/
